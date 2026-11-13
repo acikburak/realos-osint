@@ -1,0 +1,7 @@
+node_modules/
+rapor.*
+*.zip
+*.log
+.DS_Store
+# oturum profilleri (Faz 3 - asla commit edilmez)
+src/session/
